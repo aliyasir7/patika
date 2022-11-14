@@ -1,4 +1,4 @@
-##BİR FONKSİYONUN MAKSİMUM VE MİNİMUM NOKTALARINI BULMAK İÇİN NEDEN TÜREV KULLANIRIZ?
+## BİR FONKSİYONUN MAKSİMUM VE MİNİMUM NOKTALARINI BULMAK İÇİN NEDEN TÜREV KULLANIRIZ?
 Bir fonksiyonun maksimum ve minimum noktalarını bulmak için neden türev kullanırız?
 
 Merhaba, türev pek çok hesaplamada araç olarak kullanılır. Bu yazıda, “bir fonksiyonun maksimum ve minimum noktalarını bulmak için neden türev kullanırız?” sorusuna cevap arayacağız.
